@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "エンドロールは悲しくない",
+  "base_artist": "DISH//",
+  "createdAt": "2025-12-01T06:51:20.861491Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "DISH// - エンドロールは悲しくない [Official Video]",
+      "artist": "DISH",
+      "has_synced": true,
+      "path": "select/01_DISH__-_エンドロールは悲しくない_[Official_Video]_DISH.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "エンドロールは悲しくない",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_01_エンドロールは悲しくない_DISH.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "エンドロールは悲しくない",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_02_エンドロールは悲しくない_DISH.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "エンドロールは悲しくない",
+      "artist": "DISH//",
+      "has_synced": false,
+      "path": "select/pl_03_エンドロールは悲しくない_DISH.txt"
+    }
+  ]
+}
